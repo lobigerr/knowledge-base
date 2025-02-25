@@ -1,8 +1,8 @@
 ---
-metaTitle: Работа c оркестрацией контейнеров Go с Kubernetes + DockerGj
-metaDescription: Разбираемся c оркестрацией контейнеров Go с Kubernetes + DockerGj
+metaTitle: Работа c оркестрацией контейнеров Go с Kubernetes + Docker
+metaDescription: Разбираемся c оркестрацией контейнеров Go с Kubernetes + Docker
 author: Александр Гольцман
-title: Оркестрация контейнеров Go с Kubernetes + DockerGj
+title: Оркестрация контейнеров Go с Kubernetes + Docker
 preview: В этой статье я расскажу, почему Go так хорошо сочетается с Kubernetes, какие инструменты есть для работы с кластером и как развернуть Go-приложение в Kubernetes.
 ---
 
